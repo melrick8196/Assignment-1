@@ -41,12 +41,7 @@ IX Inc.
 
 >Incredible results from an incredible effort by the Vecta Corporation team! We are very pleased with the business benefits we have rceived by working with them.
 
-### Contact us
 
->#### Vecta Corporation
-555 Technology Place
-San Diego, CA 92115
-Tel. (800) 555-5555
 
 #### Management Team
 - Agnes, Vice President, Accounting
@@ -55,3 +50,10 @@ Tel. (800) 555-5555
 - Mike, Vice President, Marketing
 - Ferris, Founder and CEO
 
+
+### Contact us
+
+#### Vecta Corporation
+>555 Technology Place
+San Diego, CA 92115
+Tel. (800) 555-5555
